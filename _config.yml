@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Ruhshana Bobojonova"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ruhshana Bobojonova"
+description              : &description "Postbaccalaureate at the National Institute on Drug Abuse"
 url                      : https://ruhshana5.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "TL-02211.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "ruhshana.bobojonova at nih.gov"
+  location         : 
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            :  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
