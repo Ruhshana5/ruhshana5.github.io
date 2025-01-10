@@ -8,11 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Posters"
+    url: /posters/       
     
   - title: "CV"
     url: /cv/
-
- - title: "Posters"
-    url: /posters/
-    
-
