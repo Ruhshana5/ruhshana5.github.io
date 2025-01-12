@@ -1,7 +1,7 @@
 ---
 title: 'Microbiome'
 date: 2012-08-14
-permalink: ruhshana5.github.io/posters/microbiome.md/
+permalink: /posters/microbiome
 tags:
   - cool posts
   - category1
