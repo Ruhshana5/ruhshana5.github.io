@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ruhshana Bobojonova"
 title_separator          : "-"
-name                     : &name "Ruhshana Bobojonova"
+name                     : &name 
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : ""
-  pronouns         : # example: "she/her"  
+  name             : 
+  pronouns         : "she/her"  
   bio              : "Postbaccalaureate IRTA Fellow at the National Institute on Drug Abuse in the Technology and Translational Research Unit (Dr. Brenda Curtis email: ruhshana.bobojonova@nih.gov"
   location         : "Baltimore"
   employer         : "NIH"
