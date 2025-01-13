@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "TL-02211.jpg"
+  avatar           : "headshot.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Postbaccalaureate IRTA Fellow at the National Institute on Drug Abuse in the Technology and Translational Research Unit (Dr. Brenda Curtis email: ruhshana.bobojonova@nih.gov"
