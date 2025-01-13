@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "TL-02211.jpg"
-  name             : "Your Sidebar Name"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postbaccalaureate IRTA Fellow at the National Institute on Drug Abuse in the Technology and Translational Research Unit (Dr. Brenda Curtis email: ruhshana.bobojonova@nih.gov"
   location         : "Baltimore"
   employer         : "NIH"
   uri              : # URL
