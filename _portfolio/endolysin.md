@@ -3,4 +3,4 @@ excerpt: "A study on the difference between two endolysins encoded by phages in 
 collection: portfolio
 ---
 
-This research focuses on the difference between two endolysins encoded by phages in cluster BF. It highlights their roles, evolution, and potential applications in treating bacterial infections.
+This research focuses on the difference between two endolysins encoded by phages in cluster BF. It highlights their roles, evolution, and potential applications in treating bacterial infections
